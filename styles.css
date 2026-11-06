@@ -1,0 +1,10 @@
+:root { --bs-body-font-family: "Yu Gothic", "Hiragino Kaku Gothic ProN", "Noto Sans CJK JP", system-ui, sans-serif; }
+body { line-height: 1.8; }
+h1,h2,h3 { font-weight: 700; letter-spacing: .012em; }
+h1 { margin-top: 2.1rem; border-bottom: 1px solid #dde5ec; padding-bottom: .5rem; }
+h2 { margin-top: 1.65rem; }
+pre code, code { font-family: "SFMono-Regular", Consolas, "Noto Sans Mono CJK JP", monospace; }
+figcaption { color: #607285; font-size: .89rem; }
+table { font-size: .93rem; }
+table td { vertical-align: top; }
+blockquote { color: #566273; }
